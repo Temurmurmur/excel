@@ -1,0 +1,24 @@
+{
+  "name": "excel",
+  "version": "1.0.0",
+  "description": "Pure JS Excel Application",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Temurmurmur/excel.git"
+  },
+  "keywords": [
+    "js",
+    "javascipt",
+    "excel"
+  ],
+  "author": "Temur Ergashev <weeno28@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Temurmurmur/excel/issues"
+  },
+  "homepage": "https://github.com/Temurmurmur/excel#readme"
+}
